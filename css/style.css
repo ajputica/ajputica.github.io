@@ -1,16 +1,43 @@
-body, div, h1, h2, h3, h4, h5, h6, p, ul, ol, li, dl, dt, dd, img, form, fieldset, input, textarea, blockquote {
-	margin: 0; padding: 0; border: 0;
+p {
+  font-family: Arial;
 }
 
-body {
-	background: #f2f0eb url(images/bg.png);
-	font: 16px Helvetica, Arial, Sans-Serif; color: #636363; line-height: 24px;
+h1 {
+  color: maroon;
 }
 
-#container {
-	width: 960px; margin: 0 auto;
+h2.destination {
+  font-family: cursive;
 }
 
-#logo {
-	margin: 10px auto 0 auto; position: relative; width: 183px;
+h5 {
+  color: rebeccapurple !important;
+}
+
+h5,
+p {
+  font-family: Georgia;
+}
+
+.title {
+  color: teal;
+}
+
+.uppercase {
+  text-transform: uppercase;
+}
+.publish-time {
+  color: gray;
+}
+
+.cursive {
+  font-family: cursive;
+}
+
+.capitalize {
+  text-transform: capitalize;
+}
+
+.description h5 {
+  color: teal;
 }
