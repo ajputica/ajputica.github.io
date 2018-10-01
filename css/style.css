@@ -1,8 +1,24 @@
-body {
-    background-color: green;
+#life {
+    font-family: Arial;
+    text-align: center;
+    font-size: 24px;
+    color: darkblue;
+    width: 75%;
+    margin: auto;
+    border: 3px darkblue solid;
+    padding: 10px;
 }
 
-h1 {
-    color: blue;
-    margin-left: 20px;
+.me {
+    colord: darkblue;
+    font-family: Arial;
+    font-size: bold;
+    text-align: center;
+    background-color: lightblue;
+    border-color: darkblue;
+    border-left-style: solid;
+    border-right-style: solid;
+    position: sticky;
+    top: 60px;
 }
+
