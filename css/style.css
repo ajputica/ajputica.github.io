@@ -10,12 +10,12 @@
 }
 
 .me {
-  color: red;
+  color: lightblue;
   font-family: Arial;
   font-size: bold;
   text-align: center; 
-  background-color: purple;
-  border-color: red;
+  background-color: green;
+  border-color: lightblue;
   border-left-style: solid;
   border-right-style: solid;
   position: sticky;
@@ -25,12 +25,12 @@
 /*The sticky positioning and top 0 settings on this heading let the heading "Colin Mason" scroll with the user.*/
 
 h1 {
-  color: red;
+  color: lightblue;
   font-family: Arial;
   font-size: bold;
   text-align: center;
-  background-color: purple;
-  border-color: red;
+  background-color: green;
+  border-color: lightblue;
   border-style: solid;
   position: sticky;
   top: 0;
@@ -38,13 +38,13 @@ h1 {
 }
 
 body {
-  background-color: yellow;
+  background-color: blue;
 }
 
 .list {
   font-family: Helvetica;
-  color: red;
-  border: 3px red solid;
+  color: lightblue;
+  border: 3px lightblue solid;
   font-size: 18px;
   width: 75%;
   padding: 5px;
