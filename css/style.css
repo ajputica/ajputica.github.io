@@ -2,20 +2,20 @@
   font-family: Arial;
   text-align: center;
   font-size: 24px;
-  color: darkblue;
+  color: red;
   width: 75%;
   margin: auto;
-  border: 3px darkblue solid;
+  border: 3px red solid;
   padding: 10px;
 }
 
 .me {
-  color: darkblue;
+  color: red;
   font-family: Arial;
   font-size: bold;
   text-align: center; 
   background-color: lightblue;
-  border-color: darkblue;
+  border-color: red;
   border-left-style: solid;
   border-right-style: solid;
   position: sticky;
@@ -25,12 +25,12 @@
 /*The sticky positioning and top 0 settings on this heading let the heading "Colin Mason" scroll with the user.*/
 
 h1 {
-  color: darkblue;
+  color: red;
   font-family: Arial;
   font-size: bold;
   text-align: center;
   background-color: lightblue;
-  border-color: darkblue;
+  border-color: red;
   border-style: solid;
   position: sticky;
   top: 0;
@@ -43,8 +43,8 @@ body {
 
 .list {
   font-family: Helvetica;
-  color: darkblue;
-  border: 3px darkblue solid;
+  color: red;
+  border: 3px red solid;
   font-size: 18px;
   width: 75%;
   padding: 5px;
@@ -63,28 +63,6 @@ body {
     display: block;
     max-width: 100%;
     height: auto;
-}
-
-.brigade {
-  margin-left: auto;
-  display: block;
-  margin-right: auto;
-  max-width: 100%;
-  height: auto;
-  width: 480px;
-  border: 5px darkblue solid;
-}
-
-.video {
-    margin: 0 auto;
-    width: 400px; 
-    display: block;
-}
-
-.music {
-    display: block; 
-    margin: 0 auto;
-    padding: 30px;
 }
 
 #myCanvas{
