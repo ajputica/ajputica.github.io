@@ -2,10 +2,10 @@
   font-family: Arial;
   text-align: center;
   font-size: 24px;
-  color: red;
+  color: lightblue;
   width: 75%;
   margin: auto;
-  border: 3px red solid;
+  border: 3px lightblue solid;
   padding: 10px;
 }
 
